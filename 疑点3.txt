@@ -1,0 +1,1 @@
+itemTable(QMap<int, Product*> *db) 这里必须用*db传递进来，不能用&db，不知道为何
